@@ -1,7 +1,7 @@
 use strict;
 use utf8;
-my ($a,$а,$α)= (1,2,3);
-if($a==1 && $а==2 && $α==3) {
+my ($aﾠ,$a,$aﾠﾠ) = (1,2,3);
+if($aﾠ==1 && $a== 2 && $aﾠﾠ==3) {
     print "Hello World\n";
 }
 
