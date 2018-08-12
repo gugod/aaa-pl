@@ -8,6 +8,6 @@ package ObjA {
 my $a = ObjA->new(1);
 
 if ($a == 1 && $a == 2 && $a == 3) {
-    print "Hello World\n";
+    print "Just A Perl Hacker\n";
 }
 

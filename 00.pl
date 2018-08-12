@@ -17,5 +17,5 @@ https://stackoverflow.com/questions/48270127/can-a-1-a-2-a-3-ever-evaluate-to-tr
 ...
 
 if ($a == 1 && $a == 2 && $a == 3 ) {
-    print "Hello World";
+    print "Just A Perl Hacker";
 }
