@@ -1,11 +1,11 @@
 #
 # Hi all, @gugod here.
 #
-# Q: Can the expression
+# Q: How can the expression
 #
 #     (a== 1 && a ==2 && a==3)
 #
-# ... ever evaluate to true?
+# ... be evaluated to true?
 #
 # https://stackoverflow.com/questions/48270127/can-a-1-a-2-a-3-ever-evaluate-to-true
 
