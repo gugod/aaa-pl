@@ -1,7 +1,7 @@
 use strict;
 use utf8;
-my ($aㅤ, $a , $aᅟ) = (1, 2, 3);
-if($aㅤ==1 && $a== 2 && $aᅟ==3) {
+my ($aﾠ,$a,$aﾠﾠ) = (1,2,3);
+if($aﾠ==1 && $a== 2 && $aﾠﾠ==3) {
     print "Just A Perl Hacker\n";
 }
 
