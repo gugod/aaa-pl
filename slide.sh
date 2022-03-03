@@ -12,3 +12,5 @@ for f in 0*.pl; do
     perl $f
     read
 done
+
+cat 99.txt
