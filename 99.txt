@@ -1,6 +1,8 @@
-#
-# https://github.com/gugod/aaa-pl
-#
-# Thank you
-# for listening
-# 
+
+ https://github.com/gugod/aaa-pl
+
+ Blog: https://gugod.org
+ Twitter: @gugod
+
+ Thank you
+ for listening
