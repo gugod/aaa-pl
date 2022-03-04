@@ -2,8 +2,8 @@ use strict;
 
 package A {
     sub TIESCALAR { bless [$_[1]], $_[0] }
-    sub FETCH { $_[0][0]++; };
-};
+    sub FETCH { $_[0][0]++ }
+}
 
 tie my $a, 'A', 1;
 
