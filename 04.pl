@@ -1,5 +1,7 @@
 
-local $/; open 0; eval(<0> =~ s{==}{=}gr =~ s{\A(.+\}sr\);)}{}sr);
+local $/; open 0;
+eval(<0> =~ s{==}{=}gr
+         =~ s{\A(.+\}sr\);)}{}sr);
 
 my $a;
 

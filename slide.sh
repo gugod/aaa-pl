@@ -1,10 +1,11 @@
 #/bin/bash
+reset
 cat 00.txt
 read
 
 for f in 0*.pl; do
     clear;
-    echo '# '$f
+    echo "# cat $f"
     cat $f
     read
     echo "# perl $f #=>"

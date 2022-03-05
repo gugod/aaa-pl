@@ -1,10 +1,10 @@
 
- code: https://github.com/gugod/aaa-pl
+code: https://github.com/gugod/aaa-pl
 
- see also: https://github.com/gugod/xxx
+see also: https://github.com/gugod/xxx
 
- Blog: https://gugod.org
- Twitter: @gugod
+Blog: https://gugod.org
+Twitter: @gugod
 
- Thank you
- for listening
+Thank you
+for listening
